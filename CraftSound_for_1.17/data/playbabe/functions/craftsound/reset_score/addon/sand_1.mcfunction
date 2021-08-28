@@ -1,0 +1,1 @@
+scoreboard players reset @s pbbs.cs.100246scoreboard players reset @s pbbs.cs.100259

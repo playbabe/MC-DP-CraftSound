@@ -1,0 +1,158 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000000": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000001": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000002": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000003": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000004": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000006": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000007": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000010": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000018": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000019": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000024": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000025": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000026": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000027": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000028": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000030": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000031": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000034": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000063": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000064": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000084": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000109": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000124": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000125": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000126": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000127": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000128": { "min": 16, "max": 99999 } } }, 
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000130": { "min": 16, "max": 99999 } } }, 
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000131": { "min": 16, "max": 99999 } } }, 
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000134": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000175": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000250": { "min": 16, "max": 99999 } } }, 
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000251": { "min": 16, "max": 99999 } } }, 
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000252": { "min": 16, "max": 99999 } } }, 
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000253": { "min": 16, "max": 99999 } } }, 
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000254": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000256": { "min": 16, "max": 99999 } } }, 
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000257": { "min": 16, "max": 99999 } } }, 
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000260": { "min": 16, "max": 99999 } } }, 
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000262": { "min": 16, "max": 99999 } } }, 
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000273": { "min": 16, "max": 99999 } } }, 
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000340": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000341": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000342": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000343": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000344": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000346": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000347": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000350": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000438": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000444": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000447": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000462": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000463": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000464": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000465": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000466": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000467": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000469": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000470": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000473": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000475": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000496": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000498": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000511": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000512": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000513": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000514": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000515": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000533": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000534": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000535": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000536": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000539": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000540": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000541": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000542": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000544": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000572": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000578": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000579": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000580": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000581": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000582": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000585": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000586": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000587": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000588": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000590": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000617": { "min": 16, "max": 99999 } } }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

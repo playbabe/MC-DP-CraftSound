@@ -1,0 +1,38 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000041": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000054": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000076": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000119": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000210": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000220": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000280": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000290": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000301": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000312": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000358": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000371": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000401": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000430": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000506": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000522": { "min": 16, "max": 99999 } } }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

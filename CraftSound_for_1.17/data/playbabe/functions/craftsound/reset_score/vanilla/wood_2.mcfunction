@@ -1,0 +1,1 @@
+#1.16scoreboard players reset @s pbbs.cs.000537scoreboard players reset @s pbbs.cs.000543scoreboard players reset @s pbbs.cs.000573scoreboard players reset @s pbbs.cs.000574scoreboard players reset @s pbbs.cs.000575scoreboard players reset @s pbbs.cs.000576scoreboard players reset @s pbbs.cs.000583scoreboard players reset @s pbbs.cs.000589

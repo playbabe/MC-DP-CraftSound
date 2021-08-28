@@ -1,0 +1,11 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000637": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000638": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000639": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000640": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000641": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.000642": { "min": 1, "max": 99999 } } }
+    ]
+}

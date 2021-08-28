@@ -1,0 +1,23 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100110": { "min": 16, "max": 99999 } } },
+    { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100114": { "min": 16, "max": 99999 } } }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

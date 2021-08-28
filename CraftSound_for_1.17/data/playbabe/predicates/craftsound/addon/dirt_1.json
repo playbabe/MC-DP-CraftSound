@@ -1,0 +1,33 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100157": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100248": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100249": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100285": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100308": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100309": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100328": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100329": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100330": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100335": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100339": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100342": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100343": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100344": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100345": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100346": { "min": 1, "max": 99999 } } },
+      { "condition": "minecraft:entity_scores", "entity": "this", "scores": { "pbbs.cs.100347": { "min": 1, "max": 99999 } } }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+

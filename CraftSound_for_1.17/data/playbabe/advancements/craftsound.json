@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": [{"text":"CraftSound "},{"text":"v3.8 for 1.17                             ","color":"yellow"}],
+        "description": [{"text":"play unique sounds when crafted item."},{"text":"\n'/function playbabe:menu/craftsound/open'","color":"white"},{"text":"\nfor administrator setting option."},{"text":"\n'/trigger pbbs.cs.trigger set 1'","color":"white"},{"text":"\nfor personal setting option."}],
+        "icon": {
+            "item": "minecraft:crafting_table"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:playbabethebookshelf",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

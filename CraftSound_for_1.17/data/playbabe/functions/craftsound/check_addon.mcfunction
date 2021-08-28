@@ -1,0 +1,22 @@
+execute if predicate playbabe:craftsound/addon/cloat_1 run function playbabe:craftsound/indentify/addon/cloat_1
+execute if predicate playbabe:craftsound/addon/dirt_1 run function playbabe:craftsound/indentify/addon/dirt_1
+execute if predicate playbabe:craftsound/addon/dirt_2 run function playbabe:craftsound/indentify/addon/dirt_2
+execute if predicate playbabe:craftsound/addon/enchant_2 run function playbabe:craftsound/indentify/addon/enchant_2
+execute if predicate playbabe:craftsound/addon/enchant_3 run function playbabe:craftsound/indentify/addon/enchant_3
+execute if predicate playbabe:craftsound/addon/fire_1 run function playbabe:craftsound/indentify/addon/fire_1
+execute if predicate playbabe:craftsound/addon/food_1 run function playbabe:craftsound/indentify/addon/food_1
+execute if predicate playbabe:craftsound/addon/food_2 run function playbabe:craftsound/indentify/addon/food_2
+execute if predicate playbabe:craftsound/addon/glass_1 run function playbabe:craftsound/indentify/addon/glass_2
+execute if predicate playbabe:craftsound/addon/grass_1 run function playbabe:craftsound/indentify/addon/grass_1
+execute if predicate playbabe:craftsound/addon/iron_1 run function playbabe:craftsound/indentify/addon/iron_1
+execute if predicate playbabe:craftsound/addon/iron_2 run function playbabe:craftsound/indentify/addon/iron_2
+execute if predicate playbabe:craftsound/addon/iron_3 run function playbabe:craftsound/indentify/addon/iron_3
+execute if predicate playbabe:craftsound/addon/page_1 run function playbabe:craftsound/indentify/addon/page_1
+execute if predicate playbabe:craftsound/addon/sand_1 run function playbabe:craftsound/indentify/addon/sand_1
+execute if predicate playbabe:craftsound/addon/stone_1 run function playbabe:craftsound/indentify/addon/stone_1
+execute if predicate playbabe:craftsound/addon/stone_2 run function playbabe:craftsound/indentify/addon/stone_2
+execute if predicate playbabe:craftsound/addon/water_1 run function playbabe:craftsound/indentify/addon/water_1
+execute if predicate playbabe:craftsound/addon/wear_1 run function playbabe:craftsound/indentify/addon/wear_1
+execute if predicate playbabe:craftsound/addon/wood_1 run function playbabe:craftsound/indentify/addon/wood_1
+execute if predicate playbabe:craftsound/addon/wood_2 run function playbabe:craftsound/indentify/addon/wood_2
+

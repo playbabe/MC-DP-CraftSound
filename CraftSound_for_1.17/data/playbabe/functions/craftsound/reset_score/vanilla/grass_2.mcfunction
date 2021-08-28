@@ -1,0 +1,1 @@
+#1.17 part-1scoreboard players reset @s pbbs.cs.000625
