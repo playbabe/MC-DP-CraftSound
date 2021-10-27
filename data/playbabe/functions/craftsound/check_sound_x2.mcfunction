@@ -1,5 +1,5 @@
 
-execute if score @s pbbs.cs.sound.01 matches 2.. run function playbabe:craftsound/sounds/loop/cloat_1
+execute if score @s pbbs.cs.sound.01 matches 2.. run function playbabe:craftsound/sounds/loop/cloth_1
 execute if score @s pbbs.cs.sound.02 matches 2.. run function playbabe:craftsound/sounds/loop/dirt_1
 execute if score @s pbbs.cs.sound.03 matches 2.. run function playbabe:craftsound/sounds/loop/dirt_2
 execute if score @s pbbs.cs.sound.04 matches 2.. run function playbabe:craftsound/sounds/loop/fire_1
@@ -26,11 +26,13 @@ execute if score @s pbbs.cs.sound.24 matches 2.. run function playbabe:craftsoun
 execute if score @s pbbs.cs.sound.25 matches 2.. run function playbabe:craftsound/sounds/loop/enchant_3
 execute if score @s pbbs.cs.sound.26 matches 2.. run function playbabe:craftsound/sounds/loop/glass_1
 execute if score @s pbbs.cs.sound.27 matches 2.. run function playbabe:craftsound/sounds/loop/glass_2
-execute if score @s pbbs.cs.sound.28 matches 2.. run function playbabe:craftsound/sounds/loop/cloat_2
+execute if score @s pbbs.cs.sound.28 matches 2.. run function playbabe:craftsound/sounds/loop/cloth_2
 execute if score @s pbbs.cs.sound.29 matches 2.. run function playbabe:craftsound/sounds/loop/stone_3
 execute if score @s pbbs.cs.sound.30 matches 2.. run function playbabe:craftsound/sounds/loop/stone_4
 execute if score @s pbbs.cs.sound.31 matches 2.. run function playbabe:craftsound/sounds/loop/stone_5
 execute if score @s pbbs.cs.sound.32 matches 2.. run function playbabe:craftsound/sounds/loop/grass_2
-execute if score @s pbbs.cs.sound.33 matches 2.. run function playbabe:craftsound/sounds/loop/chuck_1
+execute if score @s pbbs.cs.sound.33 matches 2.. run function playbabe:craftsound/sounds/loop/chunk_1
 execute if score @s pbbs.cs.sound.34 matches 2.. run function playbabe:craftsound/sounds/loop/iron_4
-execute if score @s pbbs.cs.sound.35 matches 2.. run function playbabe:craftsound/sounds/loop/chuck_2
+execute if score @s pbbs.cs.sound.35 matches 2.. run function playbabe:craftsound/sounds/loop/chunk_2
+execute if score @s pbbs.cs.sound.36 matches 2.. run function playbabe:craftsound/sounds/loop/cloth_3
+execute if score @s pbbs.cs.sound.37 matches 2.. run function playbabe:craftsound/sounds/loop/crush_1

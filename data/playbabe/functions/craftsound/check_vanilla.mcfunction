@@ -1,5 +1,5 @@
-execute if predicate playbabe:craftsound/vanilla/cloat_1 run function playbabe:craftsound/indentify/vanilla/cloat_1
-execute if predicate playbabe:craftsound/vanilla/cloat_2 run function playbabe:craftsound/indentify/vanilla/cloat_2
+execute if predicate playbabe:craftsound/vanilla/cloth_1 run function playbabe:craftsound/indentify/vanilla/cloth_1
+execute if predicate playbabe:craftsound/vanilla/cloth_2 run function playbabe:craftsound/indentify/vanilla/cloth_2
 execute if predicate playbabe:craftsound/vanilla/dirt_1 run function playbabe:craftsound/indentify/vanilla/dirt_1
 execute if predicate playbabe:craftsound/vanilla/dirt_2 run function playbabe:craftsound/indentify/vanilla/dirt_2
 execute if predicate playbabe:craftsound/vanilla/enchant_1 run function playbabe:craftsound/indentify/vanilla/enchant_1
@@ -26,9 +26,11 @@ execute if predicate playbabe:craftsound/vanilla/wood_3 run function playbabe:cr
 execute if predicate playbabe:craftsound/vanilla/stone_4 run function playbabe:craftsound/indentify/vanilla/stone_4
 execute if predicate playbabe:craftsound/vanilla/stone_5 run function playbabe:craftsound/indentify/vanilla/stone_5
 execute if predicate playbabe:craftsound/vanilla/grass_2 run function playbabe:craftsound/indentify/vanilla/grass_2
-execute if predicate playbabe:craftsound/vanilla/chuck_1 run function playbabe:craftsound/indentify/vanilla/chuck_1
+execute if predicate playbabe:craftsound/vanilla/chunk_1 run function playbabe:craftsound/indentify/vanilla/chunk_1
 execute if predicate playbabe:craftsound/vanilla/iron_4 run function playbabe:craftsound/indentify/vanilla/iron_4
-execute if predicate playbabe:craftsound/vanilla/chuck_2 run function playbabe:craftsound/indentify/vanilla/chuck_2
+execute if predicate playbabe:craftsound/vanilla/chunk_2 run function playbabe:craftsound/indentify/vanilla/chunk_2
+execute if predicate playbabe:craftsound/vanilla/cloth_3 run function playbabe:craftsound/indentify/vanilla/cloth_3
+execute if predicate playbabe:craftsound/vanilla/crush_1 run function playbabe:craftsound/indentify/vanilla/crush_1
 
 execute if predicate playbabe:craftsound/sounds_score run function playbabe:craftsound/check_sound
 

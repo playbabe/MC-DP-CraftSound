@@ -1,4 +1,4 @@
-execute if predicate playbabe:craftsound/addon/cloat_1 run function playbabe:craftsound/indentify/addon/cloat_1
+execute if predicate playbabe:craftsound/addon/cloth_1 run function playbabe:craftsound/indentify/addon/cloth_1
 execute if predicate playbabe:craftsound/addon/dirt_1 run function playbabe:craftsound/indentify/addon/dirt_1
 execute if predicate playbabe:craftsound/addon/dirt_2 run function playbabe:craftsound/indentify/addon/dirt_2
 execute if predicate playbabe:craftsound/addon/enchant_2 run function playbabe:craftsound/indentify/addon/enchant_2

@@ -3,7 +3,7 @@ scoreboard objectives add pbbs.cs.fp dummy
 scoreboard objectives add pbbs.cs.rng dummy
 scoreboard objectives add pbbs.cs.trigger trigger
 #the datapack won't reload if match this number, install one time only. can force install in menu
-scoreboard players set pbbs#version pbbs.cs.fp 38
+scoreboard players set pbbs#version pbbs.cs.fp 39
 #add objectives for playing sound
 scoreboard objectives add pbbs.cs.sound.01 dummy
 scoreboard objectives add pbbs.cs.sound.02 dummy
@@ -40,6 +40,8 @@ scoreboard objectives add pbbs.cs.sound.32 dummy
 scoreboard objectives add pbbs.cs.sound.33 dummy
 scoreboard objectives add pbbs.cs.sound.34 dummy
 scoreboard objectives add pbbs.cs.sound.35 dummy
+scoreboard objectives add pbbs.cs.sound.36 dummy
+scoreboard objectives add pbbs.cs.sound.37 dummy
 
 #add objectives for checking when crafted item
 scoreboard objectives add pbbs.cs.000000 minecraft.crafted:minecraft.acacia_boat

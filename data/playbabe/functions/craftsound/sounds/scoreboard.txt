@@ -1,4 +1,4 @@
-#pbbs.cs.sound.01  -> cloat_1
+#pbbs.cs.sound.01  -> cloth_1
 #pbbs.cs.sound.02  -> dirt_1
 #pbbs.cs.sound.03  -> dirt_2
 #pbbs.cs.sound.04  -> fire_1
@@ -25,11 +25,13 @@
 #pbbs.cs.sound.25  -> enchant_3
 #pbbs.cs.sound.26  -> glass_1
 #pbbs.cs.sound.27  -> glass_2
-#pbbs.cs.sound.28  -> cloat_2
+#pbbs.cs.sound.28  -> cloth_2
 #pbbs.cs.sound.29  -> stone_3
 #pbbs.cs.sound.30  -> stone_4
 #pbbs.cs.sound.31  -> stone_5
 #pbbs.cs.sound.32  -> grass_2
-#pbbs.cs.sound.33  -> chuck_1
+#pbbs.cs.sound.33  -> chunk_1
 #pbbs.cs.sound.34  -> iron_4
-#pbbs.cs.sound.35  -> chuck_2
+#pbbs.cs.sound.35  -> chunk_2
+#pbbs.cs.sound.36  -> cloth_3
+#pbbs.cs.sound.37  -> crush_1

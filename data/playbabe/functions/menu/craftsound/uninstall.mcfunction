@@ -37,6 +37,8 @@ scoreboard objectives remove pbbs.cs.sound.32
 scoreboard objectives remove pbbs.cs.sound.33
 scoreboard objectives remove pbbs.cs.sound.34
 scoreboard objectives remove pbbs.cs.sound.35
+scoreboard objectives remove pbbs.cs.sound.36
+scoreboard objectives remove pbbs.cs.sound.37
 
 scoreboard objectives remove pbbs.cs.000001
 scoreboard objectives remove pbbs.cs.000002
